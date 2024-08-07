@@ -30,3 +30,15 @@ Por ejemplo:
 ./sorter -input input.bin -output output.bin -alg QS
 
 Esto tomará el archivo de entrada "input.bin" y lo ordenará, guardándolo en "output.bin".
+
+CONVERT
+
+Para hacer uso de la aplicación CONVERT, es necesario abrir una terminal dentro de la carpeta donde se guardó el archivo. Seguidamente, se debe compilar el código de la siguiente manera:
+
+g++ -o convert convert.cpp
+
+Luego se debe ejecutar el programa con el siguiente comando:
+
+./convert
+
+Esto pasará el archivo ordenado en binario, a números enteros legibles, lo cual permite verificar que se encuentren ordenados de manera correcta.
