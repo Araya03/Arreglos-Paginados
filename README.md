@@ -15,9 +15,7 @@ Por ejemplo:
 
 Esto creará un archivo de tamaño pequeño (512MB) en output.bin de números enteros en binario.
 
-
 SORTER
-
 
 Para hacer uso de la aplicación SORTER, es necesario abrir una terminal dentro de la carpeta donde se guardó el archivo. Seguidamente, se debe compilar el código de la siguiente manera:
 
