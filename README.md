@@ -1,5 +1,6 @@
 # Arreglos-Paginados
 GENERATOR
+
 Para hacer uso de la aplicación GENERATOR, es necesario abrir una terminal dentro de la carpeta donde se guardó el archivo. Seguidamente, se debe compilar el código de la siguiente manera:
 g++ -o generator generator.cpp
 
