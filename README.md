@@ -7,7 +7,7 @@ g++ -o generator generator.cpp
 
 Luego se debe ejecutar el programa con el siguiente comando:
 
-./generator -size <size> -output <output file path>
+./generator -size "SIZE" -output "OUTPUT FILE PATH"
 
 Por ejemplo:
 
